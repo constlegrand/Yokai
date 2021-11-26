@@ -13,7 +13,7 @@ public class Main {
                 int n1 = (int)(Math.random() * 4);
                 int n2 = (int)(Math.random() * 4);
                 System.out.println(n);
-                string non=C+string(i)
+                string non=C+string(i);
                 CarteIndice non = new CarteIndice();
                 non.couleur1=n1;
                 non.couleur2=n2;
