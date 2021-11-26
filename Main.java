@@ -12,8 +12,9 @@ public class Main {
             for (int i=0;i<5;i++){
                 int n = (int)(Math.random() * 4);
                 System.out.println(n);
+                
 
-                Carte myCarte = new Carte();
+                CarteIndice myCarte = new CarteIndice();
             }
         }
 
